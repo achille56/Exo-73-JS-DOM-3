@@ -5,6 +5,10 @@ let wrongAnswer2 = answers[2];
 
 //Votre code commence ci dessous
 
+rightAnswer.className = "right-Answer";
+wrongAnswer1.className = "wrong-Answer";
+wrongAnswer2.className = "wrong-Answer";
+
 
 
 
